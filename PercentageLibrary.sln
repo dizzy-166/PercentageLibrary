@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CI_CD", "CI_CD\CI_CD.csproj", "{EF7B2AA6-CCE4-4272-81E3-37AA9C3DA20F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PercentageLibrary.Tests", "PercentageLibrary\PercentageLibrary.Tests.csproj", "{4BF67A20-6BFE-4221-A9BD-2035E55117B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7B2AA6-CCE4-4272-81E3-37AA9C3DA20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7B2AA6-CCE4-4272-81E3-37AA9C3DA20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7B2AA6-CCE4-4272-81E3-37AA9C3DA20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7B2AA6-CCE4-4272-81E3-37AA9C3DA20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF67A20-6BFE-4221-A9BD-2035E55117B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF67A20-6BFE-4221-A9BD-2035E55117B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF67A20-6BFE-4221-A9BD-2035E55117B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF67A20-6BFE-4221-A9BD-2035E55117B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E2E749F-2A80-4DB2-A76A-2C71A43F6C92}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\denis\source\repos\CI_CD\CI_CD\bin\Debug\net8.0\CI_CD.deps.json
+C:\Users\denis\source\repos\CI_CD\CI_CD\bin\Debug\net8.0\CI_CD.dll
+C:\Users\denis\source\repos\CI_CD\CI_CD\bin\Debug\net8.0\CI_CD.pdb
+C:\Users\denis\source\repos\CI_CD\CI_CD\obj\Debug\net8.0\CI_CD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\CI_CD\CI_CD\obj\Debug\net8.0\CI_CD.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\CI_CD\CI_CD\obj\Debug\net8.0\CI_CD.AssemblyInfo.cs
+C:\Users\denis\source\repos\CI_CD\CI_CD\obj\Debug\net8.0\CI_CD.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\CI_CD\CI_CD\obj\Debug\net8.0\CI_CD.dll
+C:\Users\denis\source\repos\CI_CD\CI_CD\obj\Debug\net8.0\refint\CI_CD.dll
+C:\Users\denis\source\repos\CI_CD\CI_CD\obj\Debug\net8.0\CI_CD.pdb
+C:\Users\denis\source\repos\CI_CD\CI_CD\obj\Debug\net8.0\ref\CI_CD.dll
